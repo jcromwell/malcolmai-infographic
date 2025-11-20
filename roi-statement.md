@@ -1,0 +1,22 @@
+Hello all,
+
+In reply to Mr. Lyons query from yesterday, we can come up with some solid examples of how this can save money across multiple departments pretty quickly.
+
+1) yard / depot / trucking terminal savings:
+you can cut your "gate" staff by half at least, this is a manual process across the board and then requires additional fact checking to ensure employees are being accurate
+time savings in reconciling inventory levels, this also a manual process across a few FTE positions, additional fact checking required
+inventory and gate transactions have a direct impact on customer service requirements for timeliness on freight movement, again a manual process
+2) Customer service:
+accurate / consistent data flowing from the operation point to the customer service department
+eliminates the need for most tracking and tracing on external sites, the customer service departments job mostly is to track and trace container/chassis events on multiple external platforms and update the TMS and then update the customer. in this case, the TMS would already be updated allowing the customer service department to view automated data flows and even bypassing the customer service rep entirely and inputting that automated data flow into the customers system via EDI/API.
+3) Vendor reps / Vendors
+trucking companies typically operate under 2 models or a hybrid of the both, company drivers who are employed by the company (wage, benefits, etc) or vendor/owner operators where the company is contracting a person or company that owns trucks and pays these people a contracted rate(s). These "brokerage" transactions are contractually handled on a work order which is the binding document for each party, broker and carrier.
+brokerage vendor representative job is to send work orders or delivery orders to the trucking companies that are contracted to run a "lane" (pickup point to delivery point) - additionally their job can be to find new vendors in the event that they need more "power" (trucks) to cover the freight that they have on the board for the week/month.
+this position is manually driven, the vendor rep is calling, texting, emailing these vendor companies for updates on what happened the previous day and even further back than that in addition to trying to line up today's events and tomorrow's etc. 
+this rule also applies to company driver model companies where the dispatcher is manually calling, texting drivers for updates on where they are, what they are doing, what were the data points involved (container numbers, locations, chassis numbers, paperwork to back all of this up) which for the blue collar drivers and dispatchers can be a headache, they just want to get. in and out of work seamlessly without having to reconcile paperwork etc.
+where this device can save the time and money for this department, automated data flows from OCR images and location/time stamps will eliminate the need for manual paperwork reconciliation - the manual paperwork trail will still be necessary probably (the standard in the industry is that drivers are given tickets at port and rail delivery/pickup points that give you the container, chassis, location, timestamps etc.,) so these tickets are saved and sent to customers/SSLs/chassis providers to prove the events happened. disputes of these transactions are cumbersome and often are worked weeks/months after the events occur which is causing even large operations to hire more people to manage these departments and the companies are not able to keep focusing on the actual service they provide which is moving freight timely and efficiently. if we can eliminate these disputing processes or greatly eliminate them then that is a time savings that will allow companies to scale up tremendously using the same labor force or eliminate many FTEs
+these events can be automatically captured and input to the TMS via this device with the backup to prove the event happened in real time which allows these departments to work in real time and send accurate data to the stakeholders at play.
+4) Accounting/Billing
+much of the same principles that apply to the Vendor team above apply here, these people are responsible for tracking asset movements financially while the vendor teams jobs is to move the assets.
+this department would see a time savings by being able to pull real time accurate data from the system (TMS) and confidently pay a bill or dispute a bill.
+also, tracking ROI on asset movements and placements will help the accounting department track profitability in real time.
